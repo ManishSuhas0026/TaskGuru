@@ -11,8 +11,8 @@ export default function Taskform({addTask}) {
 
         //reset
         setTask('');
-        setPriority('medium');
-        setCategory('general');
+        setPriority('Medium');
+        setCategory('General');
     }
   return (
     <div>

@@ -27,7 +27,7 @@ export default function App() {
     setTasks([]);
   }
   return(
-    <div>
+    <div className="App">
       <header id="me">
         <h1>TaskGuru</h1>
         <br />
